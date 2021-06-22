@@ -16,6 +16,8 @@ Clone this repo or download it
 
 This requires [Node.js](https://nodejs.org/) v10+ to run.
 
+This also requires Visual Studio Code.
+
 Run `npm i` and type in `node .`  .
 
 ```sh
